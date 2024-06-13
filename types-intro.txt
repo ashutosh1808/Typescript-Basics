@@ -1,0 +1,11 @@
+TypeScript core types ==> all lowercase types
+
+number ==> 	1,5.3,-10   ==> all nos(decimal too)
+string ==>   "hi",'hi',`hi` ==> all text
+boolean ==> true,false    ==> true and false values 
+object ==> {name:'ashu',age:20} ==> any JS objects
+Array ==> [10,20,30]  ==> any JS array, of any types
+Tuple ==> [1,2] ==> Fixed length arr
+Enum ==> enum{NEW,OLD} ==> enumerated list
+any ==> * ==> any kind of values can be stored
+unknown ==> also checks the type
